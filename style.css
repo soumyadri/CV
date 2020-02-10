@@ -21,9 +21,6 @@ h3 {
 .font{
   font-size: 40px;
 }
-.font1/*one class use two times for grouping*/{
-  font-size: 18px;
-}
 
 hr /*selector*/{
   width: 80%;
